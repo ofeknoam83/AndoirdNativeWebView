@@ -1,0 +1,9 @@
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/obj/Debug/ArticleRPWebViewTest.MyPageWithWebVIew.xaml
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/obj/Debug/MyPageWithWebVIew.xaml.g.cs
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/bin/Debug/ArticleRPWebViewTest.dll.mdb
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/bin/Debug/ArticleRPWebViewTest.dll
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/obj/Debug/ArticleRPWebViewTest.dll
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/obj/Debug/ArticleRPWebViewTest.dll.mdb
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/bin/Debug/Xamarin.Forms.Core.dll
+/Users/vldalx/Projects/ArticleRPWebViewTest/ArticleRPWebViewTest/bin/Debug/Xamarin.Forms.Xaml.dll

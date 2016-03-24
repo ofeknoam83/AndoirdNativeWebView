@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="ArticleRPWebViewTest.MyPageWithWebVIew"
+			 xmlns:local="clr-namespace:ArticleRPWebViewTest;assembly=ArticleRPWebViewTest">
+	<ContentPage.Content>
+		<RelativeLayout>
+			<local:MyWebView RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width,Factor=1}"
+					 RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height,Factor=1}"
+					 VerticalOptions="FillAndExpand"
+					 Navigated="OnNavigated"
+					 Source="http://www.yediot.co.il/Iphone/Html/Yedioth/0,,L-Article-V7-4782517-android,00.html" />
+		</RelativeLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Droid/ArticleRPWebViewTest.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.56da70e3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArticleRPWebViewTest/MyPageWithWebVIew.xaml">
+    <Files>
+      <File FileName="ArticleRPWebViewTest/ArticleRPWebViewTest.cs" Line="12" Column="35" />
+      <File FileName="ArticleRPWebViewTest/MyPageWithWebVIew.xaml" Line="10" Column="24" />
+      <File FileName="ArticleRPWebViewTest/MyPageWithWebVIew.xaml.cs" Line="8" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
